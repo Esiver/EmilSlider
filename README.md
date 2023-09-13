@@ -1,7 +1,7 @@
 # EmilSlider
 a simple slider by me
 
-# to use, do something like this in your js:
+## to use, do something like this in your js:
 
 import SlideBuilder from './EmilSlider.js'
 
@@ -16,7 +16,7 @@ let headerSlider = slideBuilder.buildSlide({
 });
 
 
-# and something like this in your scss:
+## and something like this in your scss:
 
 .slider {
 
