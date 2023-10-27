@@ -1,5 +1,5 @@
 # EmilSlider
-a simple slider by me
+a simple slider by me, for use in personal projects.
 
 ## to use, do something like this in your js:
 
